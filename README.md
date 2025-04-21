@@ -11,6 +11,12 @@
 
 ![image](doc/6.png)
 
+# 项目文档
+
+- 开发过程详见：[record](doc/record.md)
+- 部署过程详见：[deploy](doc/deploy.md)
+- 后端api文档详见：[doc](doc)
+
 # 项目特色
 
 ## ① 基于 RBAC 的权限管理系统
@@ -30,14 +36,6 @@
 ## 后端 django
 
 后端包含 6 个模块（子应用）和 1 个特殊的访问后端文件的模块，共计 19 个 api（子路由）。
-
-# 项目开发过程
-
-开发过程详见：[record](doc/record.md)
-
-# 项目部署过程
-
-部署过程详见：[deploy](doc/deploy.md)
 
 # 项目功能
 
