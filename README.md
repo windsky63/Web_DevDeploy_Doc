@@ -9,7 +9,7 @@
 项目后端使用了 django-cors-headers 来解决 django 的跨域问题、pillow 处理前端与后端的图片传输、pyjwt 实现 token 生成与验证、pymysql 实现 django 与 mysql 数据库的链接、cryptography 用于加密敏感数据。jieba、pandas、pyecharts、scikit-learn 用于数据挖掘。
 本项目的网站架构采用 nginx 和 gunicorn。
 
-![](doc/6.png)
+![image](doc/6.png)
 
 # 项目特色
 
@@ -41,32 +41,32 @@
 拥有记住密码的功能，通过 js-cookie 管理 django 后端返回的 cookie。
 暂不支持验证码和找回密码。
 
-![](doc/5.png)
+![image](doc/5.png)
 
 ## 2.权限管理系统
 
 管理员拥有对应的权限可以。
 
-![](4.png)
+![image](doc/4.png)
 
 ## 3.项目展示
 
 展示项目的开发文档。
 
-![](3.png)
+![image](doc/3.png)
 
 ## 4.数据挖掘
 
 用户可以上传数据集、生成数据集、使用云端数据集来进行简单的数据挖掘。
 但该功能目前 BUG 还比较多。
 
-![](2.png)
+![image](doc/2.png)
 
 ## 5.信息修改
 
 用户可以修改信息和头像，头像修改功能基于 vue-advanced-cropper 这个库。
 
-![](1.png)
+![image](doc/1.png)
 
 # 项目未来开发计划
 
