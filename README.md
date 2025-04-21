@@ -15,7 +15,7 @@
 
 - 开发过程详见：[record](doc/record.md)
 - 部署过程详见：[deploy](doc/deploy.md)
-- 后端api文档详见：[doc](doc)
+- 后端api文档详见：[doc](/doc/api_doc)
 
 # 项目特色
 
