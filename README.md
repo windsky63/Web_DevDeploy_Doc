@@ -9,7 +9,7 @@
 项目后端使用了 django-cors-headers 来解决 django 的跨域问题、pillow 处理前端与后端的图片传输、pyjwt 实现 token 生成与验证、pymysql 实现 django 与 mysql 数据库的链接、cryptography 用于加密敏感数据。jieba、pandas、pyecharts、scikit-learn 用于数据挖掘。
 本项目的网站架构采用 nginx 和 gunicorn。
 
-![](/doc/6.png)
+![](doc/6.png)
 
 # 项目特色
 
@@ -41,7 +41,7 @@
 拥有记住密码的功能，通过 js-cookie 管理 django 后端返回的 cookie。
 暂不支持验证码和找回密码。
 
-![](5.png)
+![](doc/5.png)
 
 ## 2.权限管理系统
 
